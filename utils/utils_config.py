@@ -84,7 +84,7 @@ def get_base_data_path() -> pathlib.Path:
 def get_live_data_path() -> pathlib.Path:
     """Fetch LIVE_DATA_FILE_NAME from environment or use default."""
     live_data_path = get_base_data_path() / os.getenv(
-        "LIVE_DATA_FILE_NAME", "project_live.json"
+        "LIVE_DATA_FILE_NAME", "current_users.json"
     )
     logger.info(f"LIVE_DATA_PATH: {live_data_path}")
     return live_data_path
