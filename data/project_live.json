@@ -1,104 +1,534 @@
-{"message": "I just tried travel! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:45:18", "category": "travel", "sentiment": 0.01, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just tried an app! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:45:23", "category": "other", "sentiment": 0.67, "keyword_mentioned": "other", "message_length": 34}
-{"message": "I just loved an app! It was boring.", "author": "Eve", "timestamp": "2025-02-05 09:45:28", "category": "other", "sentiment": 0.74, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just found a meme! It was funny.", "author": "Charlie", "timestamp": "2025-02-05 09:45:33", "category": "humor", "sentiment": 0.99, "keyword_mentioned": "meme", "message_length": 34}
-{"message": "I just saw an app! It was amazing.", "author": "Bob", "timestamp": "2025-02-05 09:45:38", "category": "other", "sentiment": 0.34, "keyword_mentioned": "other", "message_length": 34}
-{"message": "I just loved travel! It was weird.", "author": "Alice", "timestamp": "2025-02-05 09:45:43", "category": "travel", "sentiment": 0.14, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just shared Python! It was weird.", "author": "Alice", "timestamp": "2025-02-05 09:45:48", "category": "tech", "sentiment": 0.85, "keyword_mentioned": "Python", "message_length": 35}
-{"message": "I just tried Python! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:45:53", "category": "tech", "sentiment": 0.12, "keyword_mentioned": "Python", "message_length": 34}
-{"message": "I just tried travel! It was weird.", "author": "Eve", "timestamp": "2025-02-05 09:45:58", "category": "travel", "sentiment": 0.17, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just saw Python! It was funny.", "author": "Eve", "timestamp": "2025-02-05 09:46:03", "category": "tech", "sentiment": 0.52, "keyword_mentioned": "Python", "message_length": 32}
-{"message": "I just loved recipe! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:46:08", "category": "food", "sentiment": 0.64, "keyword_mentioned": "recipe", "message_length": 34}
-{"message": "I just tried an app! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:46:13", "category": "other", "sentiment": 0.66, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just shared a story! It was exciting.", "author": "Eve", "timestamp": "2025-02-05 09:46:18", "category": "other", "sentiment": 0.22, "keyword_mentioned": "other", "message_length": 39}
-{"message": "I just found an app! It was weird.", "author": "Bob", "timestamp": "2025-02-05 09:46:23", "category": "other", "sentiment": 0.73, "keyword_mentioned": "other", "message_length": 34}
-{"message": "I just shared game! It was exciting.", "author": "Eve", "timestamp": "2025-02-05 09:46:28", "category": "gaming", "sentiment": 0.07, "keyword_mentioned": "game", "message_length": 36}
-{"message": "I just tried JavaScript! It was funny.", "author": "Charlie", "timestamp": "2025-02-05 09:46:33", "category": "tech", "sentiment": 0.83, "keyword_mentioned": "JavaScript", "message_length": 38}
-{"message": "I just tried game! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:46:38", "category": "gaming", "sentiment": 0.61, "keyword_mentioned": "game", "message_length": 32}
-{"message": "I just loved recipe! It was funny.", "author": "Charlie", "timestamp": "2025-02-05 09:46:43", "category": "food", "sentiment": 0.9, "keyword_mentioned": "recipe", "message_length": 34}
-{"message": "I just tried travel! It was funny.", "author": "Eve", "timestamp": "2025-02-05 09:46:48", "category": "travel", "sentiment": 0.24, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just tried Python! It was exciting.", "author": "Eve", "timestamp": "2025-02-05 09:46:53", "category": "tech", "sentiment": 0.55, "keyword_mentioned": "Python", "message_length": 37}
-{"message": "I just tried a meme! It was exciting.", "author": "Charlie", "timestamp": "2025-02-05 09:46:58", "category": "humor", "sentiment": 0.92, "keyword_mentioned": "meme", "message_length": 37}
-{"message": "I just tried a story! It was funny.", "author": "Alice", "timestamp": "2025-02-05 09:47:03", "category": "other", "sentiment": 0.71, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just loved recipe! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:47:08", "category": "food", "sentiment": 0.71, "keyword_mentioned": "recipe", "message_length": 34}
-{"message": "I just shared an app! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:47:13", "category": "other", "sentiment": 0.13, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just saw Python! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:47:18", "category": "tech", "sentiment": 0.59, "keyword_mentioned": "Python", "message_length": 34}
-{"message": "I just found travel! It was funny.", "author": "Alice", "timestamp": "2025-02-05 09:47:23", "category": "travel", "sentiment": 0.76, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just tried a meme! It was exciting.", "author": "Charlie", "timestamp": "2025-02-05 09:47:28", "category": "humor", "sentiment": 0.1, "keyword_mentioned": "meme", "message_length": 37}
-{"message": "I just found a meme! It was funny.", "author": "Eve", "timestamp": "2025-02-05 09:47:33", "category": "humor", "sentiment": 0.29, "keyword_mentioned": "meme", "message_length": 34}
-{"message": "I just loved travel! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:47:38", "category": "travel", "sentiment": 0.66, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just tried JavaScript! It was boring.", "author": "Eve", "timestamp": "2025-02-05 09:47:43", "category": "tech", "sentiment": 0.84, "keyword_mentioned": "JavaScript", "message_length": 39}
-{"message": "I just saw a movie! It was weird.", "author": "Eve", "timestamp": "2025-02-05 09:47:48", "category": "entertainment", "sentiment": 0.95, "keyword_mentioned": "movie", "message_length": 33}
-{"message": "I just saw an app! It was exciting.", "author": "Charlie", "timestamp": "2025-02-05 09:47:53", "category": "other", "sentiment": 0.21, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just found travel! It was weird.", "author": "Alice", "timestamp": "2025-02-05 09:47:58", "category": "travel", "sentiment": 0.33, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just saw an app! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:48:03", "category": "other", "sentiment": 0.72, "keyword_mentioned": "other", "message_length": 32}
-{"message": "I just loved Python! It was boring.", "author": "Charlie", "timestamp": "2025-02-05 09:48:08", "category": "tech", "sentiment": 0.34, "keyword_mentioned": "Python", "message_length": 35}
-{"message": "I just tried recipe! It was exciting.", "author": "Eve", "timestamp": "2025-02-05 09:48:13", "category": "food", "sentiment": 0.87, "keyword_mentioned": "recipe", "message_length": 37}
-{"message": "I just tried a story! It was boring.", "author": "Charlie", "timestamp": "2025-02-05 09:48:18", "category": "other", "sentiment": 0.69, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just found travel! It was exciting.", "author": "Alice", "timestamp": "2025-02-05 09:48:23", "category": "travel", "sentiment": 0.05, "keyword_mentioned": "travel", "message_length": 37}
-{"message": "I just loved JavaScript! It was weird.", "author": "Alice", "timestamp": "2025-02-05 09:48:28", "category": "tech", "sentiment": 0.64, "keyword_mentioned": "JavaScript", "message_length": 38}
-{"message": "I just found game! It was exciting.", "author": "Bob", "timestamp": "2025-02-05 09:48:33", "category": "gaming", "sentiment": 0.69, "keyword_mentioned": "game", "message_length": 35}
-{"message": "I just shared a meme! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:48:38", "category": "humor", "sentiment": 0.97, "keyword_mentioned": "meme", "message_length": 37}
-{"message": "I just tried recipe! It was exciting.", "author": "Alice", "timestamp": "2025-02-05 09:48:43", "category": "food", "sentiment": 0.78, "keyword_mentioned": "recipe", "message_length": 37}
-{"message": "I just shared recipe! It was funny.", "author": "Eve", "timestamp": "2025-02-05 09:48:48", "category": "food", "sentiment": 0.35, "keyword_mentioned": "recipe", "message_length": 35}
-{"message": "I just found a story! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:48:53", "category": "other", "sentiment": 0.36, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just shared a trick! It was funny.", "author": "Eve", "timestamp": "2025-02-05 09:48:58", "category": "other", "sentiment": 0.2, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just found a meme! It was exciting.", "author": "Bob", "timestamp": "2025-02-05 09:49:03", "category": "humor", "sentiment": 0.66, "keyword_mentioned": "meme", "message_length": 37}
-{"message": "I just shared a story! It was boring.", "author": "Charlie", "timestamp": "2025-02-05 09:49:08", "category": "other", "sentiment": 0.36, "keyword_mentioned": "other", "message_length": 37}
-{"message": "I just saw game! It was boring.", "author": "Bob", "timestamp": "2025-02-05 09:49:13", "category": "gaming", "sentiment": 0.3, "keyword_mentioned": "game", "message_length": 31}
-{"message": "I just saw a meme! It was amazing.", "author": "Bob", "timestamp": "2025-02-05 09:49:18", "category": "humor", "sentiment": 1.0, "keyword_mentioned": "meme", "message_length": 34}
-{"message": "I just loved recipe! It was exciting.", "author": "Bob", "timestamp": "2025-02-05 09:49:23", "category": "food", "sentiment": 0.12, "keyword_mentioned": "recipe", "message_length": 37}
-{"message": "I just shared an app! It was exciting.", "author": "Alice", "timestamp": "2025-02-05 09:49:28", "category": "other", "sentiment": 0.19, "keyword_mentioned": "other", "message_length": 38}
-{"message": "I just shared a movie! It was boring.", "author": "Bob", "timestamp": "2025-02-05 09:49:33", "category": "entertainment", "sentiment": 0.37, "keyword_mentioned": "movie", "message_length": 37}
-{"message": "I just tried a trick! It was amazing.", "author": "Eve", "timestamp": "2025-02-05 09:49:38", "category": "other", "sentiment": 0.3, "keyword_mentioned": "other", "message_length": 37}
-{"message": "I just shared JavaScript! It was amazing.", "author": "Eve", "timestamp": "2025-02-05 09:49:43", "category": "tech", "sentiment": 0.68, "keyword_mentioned": "JavaScript", "message_length": 41}
-{"message": "I just found Python! It was amazing.", "author": "Bob", "timestamp": "2025-02-05 09:49:48", "category": "tech", "sentiment": 0.51, "keyword_mentioned": "Python", "message_length": 36}
-{"message": "I just loved travel! It was amazing.", "author": "Eve", "timestamp": "2025-02-05 09:49:53", "category": "travel", "sentiment": 0.12, "keyword_mentioned": "travel", "message_length": 36}
-{"message": "I just found Python! It was funny.", "author": "Eve", "timestamp": "2025-02-05 09:49:58", "category": "tech", "sentiment": 0.88, "keyword_mentioned": "Python", "message_length": 34}
-{"message": "I just loved game! It was exciting.", "author": "Eve", "timestamp": "2025-02-05 09:50:03", "category": "gaming", "sentiment": 0.29, "keyword_mentioned": "game", "message_length": 35}
-{"message": "I just shared a movie! It was weird.", "author": "Bob", "timestamp": "2025-02-05 09:50:08", "category": "entertainment", "sentiment": 0.52, "keyword_mentioned": "movie", "message_length": 36}
-{"message": "I just shared recipe! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:50:13", "category": "food", "sentiment": 0.54, "keyword_mentioned": "recipe", "message_length": 37}
-{"message": "I just loved Python! It was weird.", "author": "Alice", "timestamp": "2025-02-05 09:50:18", "category": "tech", "sentiment": 0.05, "keyword_mentioned": "Python", "message_length": 34}
-{"message": "I just saw recipe! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:50:23", "category": "food", "sentiment": 0.04, "keyword_mentioned": "recipe", "message_length": 34}
-{"message": "I just shared Python! It was exciting.", "author": "Bob", "timestamp": "2025-02-05 09:50:28", "category": "tech", "sentiment": 0.41, "keyword_mentioned": "Python", "message_length": 38}
-{"message": "I just found travel! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:50:33", "category": "travel", "sentiment": 0.63, "keyword_mentioned": "travel", "message_length": 34}
-{"message": "I just loved a trick! It was weird.", "author": "Alice", "timestamp": "2025-02-05 09:50:38", "category": "other", "sentiment": 0.47, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just tried a movie! It was boring.", "author": "Eve", "timestamp": "2025-02-05 09:50:43", "category": "entertainment", "sentiment": 0.57, "keyword_mentioned": "movie", "message_length": 36}
-{"message": "I just shared JavaScript! It was exciting.", "author": "Bob", "timestamp": "2025-02-05 09:50:48", "category": "tech", "sentiment": 0.63, "keyword_mentioned": "JavaScript", "message_length": 42}
-{"message": "I just loved JavaScript! It was exciting.", "author": "Charlie", "timestamp": "2025-02-05 09:50:53", "category": "tech", "sentiment": 0.66, "keyword_mentioned": "JavaScript", "message_length": 41}
-{"message": "I just tried travel! It was exciting.", "author": "Alice", "timestamp": "2025-02-05 09:50:58", "category": "travel", "sentiment": 0.49, "keyword_mentioned": "travel", "message_length": 37}
-{"message": "I just loved a meme! It was boring.", "author": "Alice", "timestamp": "2025-02-05 09:51:03", "category": "humor", "sentiment": 0.65, "keyword_mentioned": "meme", "message_length": 35}
-{"message": "I just found recipe! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:51:08", "category": "food", "sentiment": 0.57, "keyword_mentioned": "recipe", "message_length": 34}
-{"message": "I just tried an app! It was weird.", "author": "Eve", "timestamp": "2025-02-05 09:51:13", "category": "other", "sentiment": 0.11, "keyword_mentioned": "other", "message_length": 34}
-{"message": "I just found game! It was weird.", "author": "Bob", "timestamp": "2025-02-05 09:51:18", "category": "gaming", "sentiment": 0.21, "keyword_mentioned": "game", "message_length": 32}
-{"message": "I just tried a trick! It was boring.", "author": "Bob", "timestamp": "2025-02-05 09:51:23", "category": "other", "sentiment": 0.19, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just loved Python! It was funny.", "author": "Alice", "timestamp": "2025-02-05 09:51:28", "category": "tech", "sentiment": 0.82, "keyword_mentioned": "Python", "message_length": 34}
-{"message": "I just loved a story! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:51:33", "category": "other", "sentiment": 0.57, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just loved a movie! It was funny.", "author": "Bob", "timestamp": "2025-02-05 09:51:38", "category": "entertainment", "sentiment": 0.85, "keyword_mentioned": "movie", "message_length": 35}
-{"message": "I just found recipe! It was amazing.", "author": "Eve", "timestamp": "2025-02-05 09:51:43", "category": "food", "sentiment": 0.16, "keyword_mentioned": "recipe", "message_length": 36}
-{"message": "I just tried an app! It was funny.", "author": "Charlie", "timestamp": "2025-02-05 09:51:48", "category": "other", "sentiment": 0.6, "keyword_mentioned": "other", "message_length": 34}
-{"message": "I just saw an app! It was funny.", "author": "Eve", "timestamp": "2025-02-05 09:51:53", "category": "other", "sentiment": 0.77, "keyword_mentioned": "other", "message_length": 32}
-{"message": "I just found an app! It was boring.", "author": "Alice", "timestamp": "2025-02-05 09:51:58", "category": "other", "sentiment": 0.35, "keyword_mentioned": "other", "message_length": 35}
-{"message": "I just tried game! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:52:03", "category": "gaming", "sentiment": 0.99, "keyword_mentioned": "game", "message_length": 34}
-{"message": "I just saw a movie! It was weird.", "author": "Eve", "timestamp": "2025-02-05 09:52:08", "category": "entertainment", "sentiment": 0.14, "keyword_mentioned": "movie", "message_length": 33}
-{"message": "I just saw Python! It was boring.", "author": "Charlie", "timestamp": "2025-02-05 09:52:13", "category": "tech", "sentiment": 0.2, "keyword_mentioned": "Python", "message_length": 33}
-{"message": "I just tried a movie! It was funny.", "author": "Alice", "timestamp": "2025-02-05 09:52:18", "category": "entertainment", "sentiment": 0.61, "keyword_mentioned": "movie", "message_length": 35}
-{"message": "I just tried game! It was weird.", "author": "Alice", "timestamp": "2025-02-05 09:52:23", "category": "gaming", "sentiment": 0.2, "keyword_mentioned": "game", "message_length": 32}
-{"message": "I just shared recipe! It was funny.", "author": "Charlie", "timestamp": "2025-02-05 09:52:28", "category": "food", "sentiment": 0.9, "keyword_mentioned": "recipe", "message_length": 35}
-{"message": "I just loved game! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:52:33", "category": "gaming", "sentiment": 0.69, "keyword_mentioned": "game", "message_length": 34}
-{"message": "I just tried a story! It was boring.", "author": "Eve", "timestamp": "2025-02-05 09:52:38", "category": "other", "sentiment": 0.13, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just found recipe! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:52:43", "category": "food", "sentiment": 0.03, "keyword_mentioned": "recipe", "message_length": 34}
-{"message": "I just shared JavaScript! It was boring.", "author": "Bob", "timestamp": "2025-02-05 09:52:48", "category": "tech", "sentiment": 0.86, "keyword_mentioned": "JavaScript", "message_length": 40}
-{"message": "I just tried a trick! It was amazing.", "author": "Bob", "timestamp": "2025-02-05 09:52:53", "category": "other", "sentiment": 0.37, "keyword_mentioned": "other", "message_length": 37}
-{"message": "I just shared JavaScript! It was exciting.", "author": "Bob", "timestamp": "2025-02-05 09:52:58", "category": "tech", "sentiment": 0.12, "keyword_mentioned": "JavaScript", "message_length": 42}
-{"message": "I just saw recipe! It was amazing.", "author": "Charlie", "timestamp": "2025-02-05 09:53:03", "category": "food", "sentiment": 0.58, "keyword_mentioned": "recipe", "message_length": 34}
-{"message": "I just saw recipe! It was funny.", "author": "Alice", "timestamp": "2025-02-05 09:53:08", "category": "food", "sentiment": 0.69, "keyword_mentioned": "recipe", "message_length": 32}
-{"message": "I just found an app! It was funny.", "author": "Alice", "timestamp": "2025-02-05 09:53:13", "category": "other", "sentiment": 0.25, "keyword_mentioned": "other", "message_length": 34}
-{"message": "I just saw a movie! It was amazing.", "author": "Eve", "timestamp": "2025-02-05 09:53:18", "category": "entertainment", "sentiment": 0.75, "keyword_mentioned": "movie", "message_length": 35}
-{"message": "I just saw Python! It was exciting.", "author": "Alice", "timestamp": "2025-02-05 09:53:23", "category": "tech", "sentiment": 0.56, "keyword_mentioned": "Python", "message_length": 35}
-{"message": "I just saw an app! It was weird.", "author": "Charlie", "timestamp": "2025-02-05 09:53:28", "category": "other", "sentiment": 0.81, "keyword_mentioned": "other", "message_length": 32}
-{"message": "I just tried a movie! It was weird.", "author": "Bob", "timestamp": "2025-02-05 09:53:33", "category": "entertainment", "sentiment": 0.93, "keyword_mentioned": "movie", "message_length": 35}
-{"message": "I just found an app! It was amazing.", "author": "Alice", "timestamp": "2025-02-05 09:53:38", "category": "other", "sentiment": 0.49, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just shared an app! It was boring.", "author": "Bob", "timestamp": "2025-02-05 09:53:43", "category": "other", "sentiment": 0.88, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just tried a story! It was boring.", "author": "Charlie", "timestamp": "2025-02-05 09:53:48", "category": "other", "sentiment": 0.74, "keyword_mentioned": "other", "message_length": 36}
-{"message": "I just found an app! It was funny.", "author": "Charlie", "timestamp": "2025-02-05 09:53:53", "category": "other", "sentiment": 0.04, "keyword_mentioned": "other", "message_length": 34}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:10:06"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:10:11"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:10:16"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:10:21"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:10:26"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:10:31"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:10:36"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:10:41"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:10:46"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:10:51"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:10:56"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:11:01"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:11:06"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:11:11"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:11:16"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:11:21"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:11:26"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:11:31"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:11:36"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:11:41"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:11:46"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:11:51"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:11:56"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:12:01"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:12:06"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:12:11"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:12:16"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:12:21"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:12:26"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:12:31"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:12:36"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:12:41"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:12:46"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:12:51"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:12:56"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:13:01"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:13:06"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:13:11"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:13:16"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:13:21"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:13:26"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:13:31"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:13:36"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:13:41"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:13:46"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:13:51"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:13:56"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:14:01"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:14:06"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:14:11"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:14:16"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:14:21"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:14:26"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:14:31"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:14:36"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:14:41"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:14:46"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:14:51"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:14:56"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:15:01"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:15:06"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:15:11"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:15:16"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:15:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:15:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:15:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:15:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:15:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:15:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:15:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:15:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:16:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:16:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:16:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:16:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:16:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:16:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:16:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:16:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:16:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:16:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:16:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:16:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:17:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:17:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:17:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:17:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:17:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:17:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:17:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:17:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:17:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:17:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:17:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:17:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:18:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:18:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:18:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:18:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:18:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:18:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:18:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:18:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:18:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:18:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:18:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:18:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:19:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:19:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:19:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:19:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:19:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:19:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:19:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:19:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:19:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:19:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:19:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:19:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:20:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:20:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:20:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:20:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:20:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:20:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:20:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:20:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:20:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:20:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:20:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:20:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:21:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:21:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:21:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:21:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:21:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:21:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:21:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:21:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:21:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:21:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:21:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:21:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:22:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:22:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:22:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:22:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:22:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:22:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:22:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:22:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:22:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:22:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:22:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:22:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:23:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:23:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:23:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:23:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:23:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:23:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:23:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:23:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:23:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:23:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:23:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:23:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:24:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:24:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:24:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:24:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:24:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:24:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:24:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:24:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:24:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:24:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:24:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:24:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:25:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:25:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:25:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:25:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:25:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:25:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:25:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:25:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:25:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:25:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:25:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:25:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:26:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:26:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:26:12"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:26:17"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:26:22"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:26:27"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:26:32"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:26:37"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:26:42"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:26:47"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:26:52"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:26:57"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:27:02"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:27:07"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:27:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:27:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:27:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:27:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:27:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:27:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:27:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:27:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:27:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:27:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:28:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:28:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:28:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:28:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:28:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:28:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:28:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:28:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:28:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:28:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:28:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:28:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:29:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:29:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:29:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:29:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:29:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:29:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:29:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:29:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:29:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:29:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:29:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:29:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:30:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:30:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:30:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:30:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:30:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:30:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:30:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:30:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:30:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:30:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:30:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:30:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:31:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:31:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:31:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:31:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:31:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:31:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:31:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:31:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:31:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:31:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:31:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:31:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:32:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:32:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:32:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:32:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:32:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:32:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:32:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:32:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:32:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:32:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:32:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:32:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:33:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:33:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:33:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:33:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:33:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:33:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:33:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:33:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:33:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:33:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:33:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:33:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:34:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:34:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:34:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:34:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:34:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:34:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:34:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:34:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:34:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:34:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:34:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:34:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:35:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:35:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:35:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:35:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:35:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:35:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:35:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:35:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:35:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:35:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:35:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:35:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:36:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:36:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:36:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:36:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:36:23"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:36:28"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:36:33"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:36:38"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:36:43"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:36:48"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:36:53"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:36:58"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:37:03"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:37:08"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:37:13"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:37:18"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:37:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:37:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:37:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:37:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:37:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:37:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:37:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:37:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:38:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:38:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:38:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:38:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:38:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:38:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:38:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:38:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:38:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:38:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:38:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:38:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:39:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:39:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:39:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:39:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:39:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:39:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:39:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:39:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:39:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:39:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:39:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:39:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:40:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:40:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:40:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:40:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:40:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:40:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:40:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:40:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:40:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:40:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:40:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:40:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:41:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:41:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:41:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:41:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:41:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:41:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:41:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:41:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:41:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:41:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:41:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:41:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:42:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:42:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:42:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:42:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:42:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:42:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:42:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:42:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:42:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:42:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:42:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:42:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:43:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:43:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:43:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:43:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:43:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:43:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:43:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:43:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:43:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:43:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:43:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:43:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:44:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:44:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:44:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:44:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:44:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:44:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:44:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:44:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:44:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:44:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:44:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:44:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:45:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:45:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:45:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:45:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:45:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:45:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:45:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:45:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:45:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:45:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:45:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:45:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:46:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:46:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:46:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:46:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:46:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:46:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:46:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:46:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:46:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:46:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:46:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:46:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:47:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:47:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:47:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:47:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:47:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:47:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:47:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:47:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:47:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:47:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:47:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:47:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:48:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:48:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:48:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:48:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:48:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:48:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:48:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:48:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:48:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:48:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:48:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:48:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:49:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:49:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:49:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:49:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:49:24"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:49:29"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:49:34"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:49:39"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:49:44"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:49:49"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:49:54"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:49:59"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:50:04"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:50:09"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:50:14"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:50:19"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:50:25"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:50:30"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:50:35"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:50:40"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:50:45"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:50:50"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:50:55"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:51:00"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:51:05"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:51:10"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:51:15"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:51:20"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:51:25"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:51:30"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:51:35"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:51:40"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:51:45"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:51:50"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:51:55"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:52:00"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:52:05"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:52:10"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:52:15"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:52:20"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:52:25"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:52:30"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:52:35"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:52:40"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:52:45"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:52:50"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:52:55"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:53:00"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:53:05"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:53:10"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:53:15"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:53:20"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:53:25"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:53:30"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:53:35"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:53:40"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:53:45"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:53:50"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:53:55"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:54:00"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:54:05"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:54:10"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:54:15"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:54:20"}
+{"User_ID": "ajurek", "Status": "green", "Log_in": "2/18/2025 8:13", "Last_Request": "2/18/2025 11:41", "Description": "Service Orders for Scheduling 1", "timestamp": "2025-02-20 18:54:25"}
+{"User_ID": "bwendt", "Status": "green", "Log_in": "2/18/2025 8:49", "Last_Request": "2/18/2025 11:42", "Description": "Invoice Entry - Brief Mode", "timestamp": "2025-02-20 18:54:30"}
+{"User_ID": "cclemens", "Status": "green", "Log_in": "2/18/2025 8:45", "Last_Request": "2/18/2025 11:22", "Description": "Job Summary Inquiry", "timestamp": "2025-02-20 18:54:35"}

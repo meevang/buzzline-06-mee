@@ -92,6 +92,11 @@ scipy
 
 matplotlib
 
+pandas
+
+resource
+
+
 # ======================================================
 # KAFKA MESSAGE BROKER INTEGRATION
 # ======================================================

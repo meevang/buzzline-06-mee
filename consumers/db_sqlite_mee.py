@@ -3,6 +3,8 @@
 Has the following functions:
 - init_db(config): Initialize the SQLite database and create the 'streamed_messages' table if it doesn't exist.
 - insert_message(message, config): Insert a single processed message into the SQLite database.
+- delete_message(message_id, db_path): Delete a message from the SQLite database by its ID.
+- get_all_messages(db_path): Retrieve all messages from the SQLite database.
 
 Example JSON message
 {
@@ -28,10 +30,11 @@ import sqlite3
 import utils.utils_config as config
 from utils.utils_logger import logger
 
+__all__ = ['init_db', 'insert_message', 'delete_message', 'get_all_messages']
+
 #####################################
 # Define Function to Initialize SQLite Database
 #####################################
-
 
 def init_db(db_path: pathlib.Path):
     """
@@ -43,7 +46,7 @@ def init_db(db_path: pathlib.Path):
     - db_path (pathlib.Path): Path to the SQLite database file.
 
     """
-    logger.info("Calling SQLite init_db() with {db_path=}.")
+    logger.info(f"Calling SQLite init_db() with {db_path=}.")
     try:
         # Ensure the directories for the db exist
         os.makedirs(os.path.dirname(db_path), exist_ok=True)
@@ -58,10 +61,10 @@ def init_db(db_path: pathlib.Path):
                 """
                 CREATE TABLE IF NOT EXISTS streamed_messages (
                     id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    User_ID TEXT,
+                    "User ID" TEXT,
                     Status TEXT,
-                    Log_in TEXT,
-                    Last_Request TEXT,
+                    "Log in" TEXT,
+                    "Last Request" TEXT,
                     Description TEXT
                 )
             """
@@ -71,11 +74,9 @@ def init_db(db_path: pathlib.Path):
     except Exception as e:
         logger.error(f"ERROR: Failed to initialize a sqlite database at {db_path}: {e}")
 
-
 #####################################
 # Define Function to Insert a Processed Message into the Database
 #####################################
-
 
 def insert_message(message: dict, db_path: pathlib.Path) -> None:
     """
@@ -95,27 +96,25 @@ def insert_message(message: dict, db_path: pathlib.Path) -> None:
             cursor = conn.cursor()
             cursor.execute("""
                 INSERT INTO streamed_messages (
-                    User_ID, Status, Log_in, Last_Request, Description
+                    "User ID", Status, "Log in", "Last Request", Description
                 ) VALUES (?, ?, ?, ?, ?)
             """,
             (
-                    message["User ID"],
-                    message["Status"],
-                    message["Log in"],
-                    message["Last Request"],
-                    message["Description"],
-                ),
+                message["User ID"],
+                message["Status"],
+                message["Log in"],
+                message["Last Request"],
+                message["Description"],
+            ),
             )
             conn.commit()
         logger.info("Inserted one message into the database.")
     except Exception as e:
         logger.error(f"ERROR: Failed to insert message into the database: {e}")
 
-
 #####################################
 # Define Function to Delete a Message from the Database
 #####################################
-
 
 def delete_message(message_id: int, db_path: pathlib.Path) -> None:
     """
@@ -135,6 +134,35 @@ def delete_message(message_id: int, db_path: pathlib.Path) -> None:
     except Exception as e:
         logger.error(f"ERROR: Failed to delete message from the database: {e}")
 
+#####################################
+# Define Function to Retrieve All Messages from the Database
+#####################################
+
+def get_all_messages(db_path: pathlib.Path) -> list:
+    """
+    Retrieve all messages from the SQLite database.
+
+    Args:
+    - db_path (pathlib.Path): Path to the SQLite database file.
+
+    Returns:
+    - list: A list of dictionaries, each containing a message's data.
+    """
+    logger.info(f"Retrieving all messages from database at {db_path}")
+    messages = []
+    try:
+        with sqlite3.connect(str(db_path)) as conn:
+            conn.row_factory = sqlite3.Row  # This enables column access by name
+            cursor = conn.cursor()
+            cursor.execute("SELECT * FROM streamed_messages")
+            rows = cursor.fetchall()
+            for row in rows:
+                messages.append(dict(row))
+        logger.info(f"Retrieved {len(messages)} messages from the database.")
+        return messages
+    except Exception as e:
+        logger.error(f"ERROR: Failed to retrieve messages from the database: {e}")
+        return []
 
 #####################################
 # Define main() function for testing
@@ -160,28 +188,17 @@ def main():
 
     insert_message(test_message, TEST_DB_PATH)
 
-    # Retrieve the ID of the inserted test message
-    try:
-        with sqlite3.connect(TEST_DB_PATH, timeout=1.0) as conn:
-            cursor = conn.cursor()
-            cursor.execute(
-                "SELECT id FROM streamed_messages WHERE message = ? AND author = ?",
-                (test_message["message"], test_message["author"]),
-            )
-            row = cursor.fetchone()
-            if row:
-                test_message_id = row[0]
-                # Delete the test message
-                delete_message(test_message_id, TEST_DB_PATH)
-            else:
-                logger.warning("Test message not found; nothing to delete.")
-    except Exception as e:
-        logger.error(f"ERROR: Failed to retrieve or delete test message: {e}")
+    # Retrieve all messages
+    all_messages = get_all_messages(TEST_DB_PATH)
+    logger.info(f"Retrieved {len(all_messages)} messages from the database.")
+
+    # Delete the test message if it exists
+    if all_messages:
+        delete_message(all_messages[0]['id'], TEST_DB_PATH)
 
     logger.info("Finished testing.")
 
-
-# #####################################
+#####################################
 # Conditional Execution
 #####################################
 

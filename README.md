@@ -5,6 +5,9 @@ Nearly every streaming analytics system stores processed data somewhere for furt
 In this example project, we incorporate a relational data store. 
 We use SQLite, but the example could be altered to work with MySQL, PostgreSQL, or MongoDB.
 
+We will create a real time dashboard that consumes data from a Kafka topic, visualizes user statuses in a bar chart, and store it in a SQLite database.
+
+
 ## VS Code Extensions
 
 - Black Formatter by Microsoft
@@ -72,13 +75,13 @@ Windows:
 
 ```shell
 .venv\Scripts\activate
-py -m producers.producer_case
+py -m producers.producer_mee
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m producers.producer_case
+python3 -m producers.producer_mee
 ```
 
 The producer will still work if Kafka is not available.
@@ -96,17 +99,17 @@ Use the commands below to activate .venv, and start the consumer.
 Windows:
 ```shell
 .venv\Scripts\activate
-py -m consumers.kafka_consumer_case
+py -m consumers.kafka_consumer_mee
 OR
-py -m consumers.file_consumer_case
+py -m consumers.file_consumer_mee
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m consumers.kafka_consumer_case
+python3 -m consumers.kafka_consumer_mee
 OR
-python3 -m consumers.file_consumer_case
+python3 -m consumers.file_consumer_mee
 ```
 
 ---
@@ -184,3 +187,5 @@ Managing Python virtual environments is a valuable skill.
 This project is licensed under the MIT License as an example project. 
 You are encouraged to fork, copy, explore, and modify the code as you like. 
 See the [LICENSE](LICENSE.txt) file for more.
+
+![alt text](image-1.png)
